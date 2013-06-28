@@ -1,0 +1,1 @@
+class Candidate < Struct.new(:name); end
